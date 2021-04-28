@@ -8,10 +8,7 @@
 	<h1>Logika di PHP</h1>
 
 	<?php 
-				// Tipe data bolean
-		// true [benar] / false [salah]
-	// $hasil  = true;
-	// $hasil2 = false;
+				
 
 				// if dan else
 
